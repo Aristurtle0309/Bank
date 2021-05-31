@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaBank", "DaBank\DaBank.csproj", "{241CF5FE-F98C-4FAF-AE12-AB0DCE9D01A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{241CF5FE-F98C-4FAF-AE12-AB0DCE9D01A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241CF5FE-F98C-4FAF-AE12-AB0DCE9D01A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241CF5FE-F98C-4FAF-AE12-AB0DCE9D01A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241CF5FE-F98C-4FAF-AE12-AB0DCE9D01A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA712BD0-E2AD-4110-AB3C-E8B2D7AD54EF}
+	EndGlobalSection
+EndGlobal
